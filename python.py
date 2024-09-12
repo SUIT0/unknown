@@ -11,3 +11,22 @@ def ulala (n):
        
 b="sudip"       
 ulala(b)
+
+
+
+
+def user_input():
+   
+    print("what is your name?")
+    name=input("frst name")
+    if(name=="sudip"):print("handsome")
+    else:print("very ugly")
+    user_input()
+    
+user_input()
+    
+    
+   
+         
+     
+    
